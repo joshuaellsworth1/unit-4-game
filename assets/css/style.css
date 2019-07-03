@@ -1,33 +1,63 @@
 #bowser {
-    width: 350px;
-    length: 350px;
+    height: auto;
+    width: 25%;
+    position: static;
+
 }
 
 #kong {
-    width: 200px;
-    length: 200px;
-    float: left;
+
+    width: 24%;
+    text-align: center;
+
 }
 
 #kirby {
-    width: 200px;
-    length: 200px;
+    width: 24%;
+    text-align: center;
+
 }
 
 #link {
-    width: 200px;
-    length: 200px;
+    width: 24%;
+    text-align: center;
 }
 
 #mario {
-    width: 200px;
-    length: 200px;
+    width: 24%;
+    text-align: center;
 }
 
-.win {
+#win {
+    text-align: center;
+    font-size: 36px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+p {
+    text-align: center;
+    font-size: 36px;
+}
+#loss {
+    text-align: center;
+    font-size: 36px;
+}
+
+.h2 {
+    text-align: center;
+    color: red;
     font-size: 5px;
 }
 
-.loss {
-    font-size: 5px;
-}
+.characters {
+    width: auto;
+    height: auto;
