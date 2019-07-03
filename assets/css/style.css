@@ -1,0 +1,33 @@
+#bowser {
+    width: 350px;
+    length: 350px;
+}
+
+#kong {
+    width: 200px;
+    length: 200px;
+    float: left;
+}
+
+#kirby {
+    width: 200px;
+    length: 200px;
+}
+
+#link {
+    width: 200px;
+    length: 200px;
+}
+
+#mario {
+    width: 200px;
+    length: 200px;
+}
+
+.win {
+    font-size: 5px;
+}
+
+.loss {
+    font-size: 5px;
+}
